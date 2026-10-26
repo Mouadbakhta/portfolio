@@ -1,0 +1,125 @@
+NAME
+Mouad Bakhta
+
+TITLE
+Final-year Software Engineering student at ENSA Marrakech — Backend / Full-Stack Developer (Java, Spring Boot, microservices).
+
+PROFILE
+Final-year Software Engineering student with hands-on experience in Java, Spring Boot and
+microservices architectures. Builds full-stack applications with modern frontend frameworks
+and RESTful APIs. Currently seeking a PFE (final-year) internship.
+
+SKILLS
+
+Programming:
+- Java, Python, TypeScript, JavaScript
+
+Backend & Frameworks:
+- Spring Boot, Spring MVC, Spring Security, JWT, FastAPI, Laravel
+
+Frontend:
+- Angular, React, Next.js, HTML, CSS, Tailwind CSS
+
+Messaging & Integration:
+- Apache Kafka, Apache Camel, REST APIs
+
+Databases:
+- PostgreSQL, MySQL
+
+DevOps & Tools:
+- Docker, Kubernetes, Git, GitHub Actions, CI/CD, JIRA, Postman
+
+AI:
+- RAG, LangChain, Deep Learning, NumPy, Pandas, Scikit-learn
+
+Architecture:
+- MVC, Microservices
+
+Soft skills:
+- Teamwork, Communication, Problem Solving
+
+LANGUAGES
+- Arabic (native)
+- French
+- English
+
+INTERNSHIPS
+
+1) Backend Developer Intern — Synertic (Banking & Financial Sector)
+Period: July 2026 – August 2026
+Description:
+Contributed to the backend development of an event management platform based on a
+microservices architecture with Spring Boot. Worked with distributed messaging and
+orchestration technologies (Apache Kafka, Apache Camel).
+Technologies: Java, Spring Boot, Microservices, Apache Kafka, Apache Camel, REST API
+
+2) Initiation Internship — Full-Stack Developer
+Period: July 2025
+Company: Marsa Maroc — fill in the company name
+Description:
+Designed and developed an IT fleet management platform to orchestrate the company's
+IT equipment.
+Technologies: Laravel, Tailwind CSS
+
+PROJECTS
+
+1) OkaneTransfer — Money Transfer Platform
+Period: March 2026 – June 2026   
+Role: Backend Developer (academic team project, 6 people)
+Description:
+Money transfer platform. Personal scope: client transfer tracking (statuses, filters,
+public tracking by reference number), agent virtual cash register (real-time balance,
+daily closing, discrepancy handling) and a manager dashboard with report exports.
+Technologies: Java, Spring MVC, Spring Security, PostgreSQL, Angular, Docker
+GitHub: https://github.com/Mouadbakhta/Okane-Transfer.git
+
+2) Hotel Management Platform
+Period: February 2025
+Role: Full-Stack Developer
+Description:
+Microservices architecture with API Gateway, Eureka service discovery and inter-service
+communication via Feign Client. React / Redux / Material UI frontend secured with JWT.
+Docker Compose deployment. Unit and integration testing with JUnit and MockMvc.
+Technologies: Spring Boot, React, Redux, Microservices, Docker, JWT, JUnit
+GitHub: https://github.com/Mouadbakhta/HotelManagement-.git
+
+
+3)OrcaML — Mlops platform
+Period: March 2026 – June 2026
+Role: Backend developer 
+Description:
+
+
+GitHub:https://github.com/Mouadbakhta/OrcaML.git
+
+EDUCATION
+
+Software Engineering (Engineering Cycle)
+ENSA Marrakech — National School of Applied Sciences
+2024 — Present
+
+MP CPGE (Preparatory Classes)
+Lycée Lissane Eddine Ibn Al-Khatib, Laâyoune
+2022 — 2024
+
+Baccalaureate — Mathematical Sciences
+Ahmed Elrachdi High School, Boujdour        
+2021 — 2022
+
+EXTRACURRICULAR
+
+Head of Web & Mobile Development — EMJE, Junior Enterprise of ENSA Marrakech
+2025 — 2026
+Led the web and mobile development team of the junior enterprise.
+
+
+AVAILABILITY
+Open to: PFE internship, internships, collaborative projects
+Location: Marrakech, Morocco
+Status: Available
+
+CONTACT
+Email: bakhtamouad1@gmail.com
+Phone: +212 693-380227
+GitHub: https://github.com/Mouadbakhta
+LinkedIn: https://www.linkedin.com/in/mouadbakhta/
